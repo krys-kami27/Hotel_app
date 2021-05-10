@@ -1,0 +1,7 @@
+jedzenie, 1, kucharz, gotuje
+cwiczy na silowni, 1, nie, nie
+
+
+
+
+
